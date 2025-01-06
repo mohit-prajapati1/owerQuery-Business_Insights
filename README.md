@@ -31,7 +31,7 @@ Contribution of each team to total achievements.
 Question:
 How can organizations design realistic yet challenging targets to boost motivation and productivity?
 
-
+4.Case Study
 Sheets: 4_Uncleaned_Data, case4, result-4
 Description:
 Focuses on cleaning and transforming unstructured or incomplete datasets into usable formats. Includes processes like handling missing values, duplicates, and inconsistent data formats.
